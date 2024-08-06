@@ -5,17 +5,12 @@
     "displayImg": false,
     "font": "JetBrainsMono NF",
     "enableFonts": false,
-    "fontSize": 1
+    "fontSize": 1.1
   },
   "yags-search": {
     "placeholder": "",
     "engine": "duckduckgo",
-    "forwardingLookup": {
-      "/": "/",
-      "deepl": "https://deepl.com/",
-      "reddit": "https://reddit.com/",
-      "maps": "https://maps.google.com/"
-    }
+    "forwardingLookup": {}
   },
   "yags-theme": {
     "inverted": false,
